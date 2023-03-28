@@ -75,3 +75,4 @@ DerivedDataCache/*
 
 # Temp Files
 Config/DefaultEditorPerProjectUserSettings.ini
+LD_Unreal/Saved/Logs/LD_Unreal.log
