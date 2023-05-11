@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"I:/ProjetsUE/LD_Unreal/LD_Unreal/Content/InteractibleElements/BP_Bookshelf.uasset",
+				"I:/ProjetsUE/LD_Unreal/LD_Unreal/Content/Draft/ALZ_TestMap.umap",
+				"I:/ProjetsUE/LD_Unreal/LD_Unreal/Content/InteractibleElements/BP_MonsterShadow.uasset",
 				"D:/Unreal Projects/UE_5.0/LD_Unreal/LD_Unreal/LD_Unreal/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
